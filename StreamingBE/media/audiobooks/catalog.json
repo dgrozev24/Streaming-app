@@ -1,0 +1,22 @@
+[
+    {
+        "id":  "the-lantern-keeper",
+        "description":  "An original two-chapter sample story for testing playback, chapter changes, and resume.",
+        "narrator":  "Windows synthetic voice",
+        "chapters":  [
+                         {
+                             "title":  "A light across the water",
+                             "durationSeconds":  55.375,
+                             "source":  "demo/chapter-1.wav"
+                         },
+                         {
+                             "title":  "The way home",
+                             "durationSeconds":  57.65,
+                             "source":  "demo/chapter-2.wav"
+                         }
+                     ],
+        "coverUrl":  null,
+        "author":  "Streaming App demo",
+        "title":  "The Lantern Keeper"
+    }
+]

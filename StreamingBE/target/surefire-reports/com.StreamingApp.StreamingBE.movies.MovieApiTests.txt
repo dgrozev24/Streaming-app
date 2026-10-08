@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.StreamingApp.StreamingBE.movies.MovieApiTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.971 s -- in com.StreamingApp.StreamingBE.movies.MovieApiTests

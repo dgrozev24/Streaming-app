@@ -1,0 +1,4 @@
+com\StreamingApp\StreamingBE\audiobooks\AudiobookApiTests.class
+com\StreamingApp\StreamingBE\StreamingBeApplicationTests.class
+com\StreamingApp\StreamingBE\accounts\AccountApiTests.class
+com\StreamingApp\StreamingBE\movies\MovieApiTests.class
